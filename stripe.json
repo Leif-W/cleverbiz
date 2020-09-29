@@ -1,0 +1,22 @@
+[
+    {
+      "Campaign": "Quarter 1",
+      "Platform": "FaceBook",
+      "Expense": 450
+    },
+    {
+      "Campaign": "Quarter 1",
+      "Platform": "Google",
+      "Expense": 600
+    },
+    {
+      "Campaign": "Quarter 1",
+      "Platform": "Twitter",
+      "Expense": 786
+    },
+    {
+      "Campaign": "Quarter 1",
+      "Platform": "Twitter",
+      "Expense": 786
+    }
+  ]

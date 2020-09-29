@@ -1,0 +1,66 @@
+[
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with Python",
+      "Campaign ID": 123,
+      "Impressions": 1211,
+      "Clicks": 19,
+      "Cost": 14.92
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with Python",
+      "Campaign ID": 123,
+      "Impressions": 901,
+      "Clicks": 12,
+      "Cost": 9.86
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with Python",
+      "Campaign ID": 123,
+      "Impressions": 1065,
+      "Clicks": 16,
+      "Cost": 11.23
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with Python",
+      "Campaign ID": 123,
+      "Impressions": 1002,
+      "Clicks": 15,
+      "Cost": 10.12
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with JavaScript",
+      "Campaign ID": 456,
+      "Impressions": 300,
+      "Clicks": 4,
+      "Cost": 2.92
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with JavaScript",
+      "Campaign ID": 456,
+      "Impressions": 340,
+      "Clicks": 5,
+      "Cost": 3.86
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with JavaScript",
+      "Campaign ID": 456,
+      "Impressions": 509,
+      "Clicks": 6,
+      "Cost": 5.23
+    },
+    {
+      "Days": "3/20/2020",
+      "Campaign": "Profit with JavaScript",
+      "Campaign ID": 456,
+      "Impressions": 287,
+      "Clicks": 3,
+      "Cost": 1.12
+    }
+   ]

@@ -1,0 +1,62 @@
+[
+    {
+      "Platform": "Paypal",
+      "Month": "January",
+      "Profit(Loss)": -4150
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "February",
+      "Profit(Loss)": -6003
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "March",
+      "Profit(Loss)": -5137
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "April",
+      "Profit(Loss)": 2650
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "May",
+      "Profit(Loss)": 4561
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "June",
+      "Profit(Loss)": 4657
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "July",
+      "Profit(Loss)": 1245
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "August",
+      "Profit(Loss)": 4657
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "September",
+      "Profit(Loss)": 4853
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "October",
+      "Profit(Loss)": 5855
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "November",
+      "Profit(Loss)": 1654
+    },
+    {
+      "Platform": "Paypal",
+      "Month": "December",
+      "Profit(Loss)": 4651
+    }
+   ]
